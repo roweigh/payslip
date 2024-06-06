@@ -11,5 +11,6 @@ Source code for Payslip generator written in Delphi to learn the basics of softw
 
 #### Examples of CRUD operations:
 [AdoDBConx](https://github.com/roweigh/payslip/blob/main/Source/AdoDBConx.pas) - Collection of CRUD operations\
+[AdoDbConx](https://github.com/roweigh/payslip/blob/main/Source/AdoDBConx.dfm) - CRUD SQL\
 [AddEmployeeDlg](https://github.com/roweigh/payslip/blob/main/Source/AddEmployeeDlg.pas)\
 [EditEmployeeDlg](https://github.com/roweigh/payslip/blob/main/Source/EditEmployeeDlg.pas)
